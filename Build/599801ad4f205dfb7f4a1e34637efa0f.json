@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "2D stuff",
+"dataUrl": "0d6bf33d8c8a643f06fd7c83411d56a7.unityweb",
+"wasmCodeUrl": "c5906af340a5af86c3e7fa4816797349.unityweb",
+"wasmFrameworkUrl": "85c129eb6ed09e30c1ef6190486f4847.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
